@@ -6,7 +6,7 @@ public class ExceptionExample2 {
         System.out.println("処理開始");
 
         try {
-            // ここに例外が発生する可能性のあるコードを書きます
+            
             System.out.println("割り算開始");
             int a = divide(10, 0);
             System.out.println(a);
