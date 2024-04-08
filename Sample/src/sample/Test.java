@@ -1,9 +1,14 @@
 package sample;
 
 public class Test {
-
+    
+    // mainメソッドはプログラムの最初に動作します。
     public static void main(String[] args) {
-        // TODO 自動生成されたメソッド・スタブ
+        /* コメントアウト
+        System.out.println("Kiramex");
+        System.out.println("Java");
+        */
+        System.out.println("学習を始めましょう!");
 
     }
 
